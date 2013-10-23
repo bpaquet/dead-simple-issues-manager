@@ -42,6 +42,7 @@ Roadmap
   * Creating issues
   * Add comments
   * Change issue status
+* Feature : Rest API redmine or Jira compatible, to interface with IDE
 * Feature : a git code browser
 * Feature : a markdown wiki
 
