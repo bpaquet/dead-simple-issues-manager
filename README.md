@@ -30,18 +30,18 @@ Warning, it's very simple !
 To help you, ``dead-simple-issues-manager`` will provide
 * a standard text file format for storing issues
 * a web interface
-* * to make this folder "browsable" : listing issues, sorting issues by branches
-* * to create issues by filling a form
-* * to change issues statuses, add comments, and much more
+  * to make this folder "browsable" : listing issues, sorting issues by branches
+  * to create issues by filling a form
+ * to change issues statuses, add comments, and much more
 
 Roadmap
 ---
 
 * Proof of concept deployable on heroku
-** List issues
-** Creating issues
-** Add comments
-** Change issue state
+  * List issues
+  * Creating issues
+  * Add comments
+  * Change issue status
 * Feature : a git code browser
 * Feature : a markdown wiki
 
